@@ -8,10 +8,6 @@
 
 > Most transaction fraud systems evaluate transactions individually. Sentinel Ring detects *coordinated* abuse by combining transaction-level ML with relationship and temporal signals, then uses a bounded AI investigator agent to explain the network-level evidence and recommend a risk-aware action — reducing false positives and giving reviewers auditable evidence, not just a score.
 
-## Screenshots
-
-![Dashboard overview]SENTINEL-RING/Dashboard.png
-
 ---
 
 ## The problem
