@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+xgboost
+networkx
+python-louvain
+faker
+fastapi
+uvicorn
+groq
+pyvis
