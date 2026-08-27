@@ -1,5 +1,9 @@
 # ◆ Sentinel Ring
 
+**🔴 Live demo: [sentinel-ring.onrender.com](https://sentinel-ring.onrender.com)**
+*(Free-tier hosting — the app may take 30-60 seconds to wake up on first visit after a period of inactivity.)*
+
+
 **Coordinated fraud-ring detection for the Razorpay AI Buildathon 2026 — Track 2: AI Risk Manager**
 
 > Most transaction fraud systems evaluate transactions individually. Sentinel Ring detects *coordinated* abuse by combining transaction-level ML with relationship and temporal signals, then uses a bounded AI investigator agent to explain the network-level evidence and recommend a risk-aware action — reducing false positives and giving reviewers auditable evidence, not just a score.
