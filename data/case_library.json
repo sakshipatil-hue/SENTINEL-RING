@@ -1,0 +1,124 @@
+[
+  {
+    "case_id": "case_ring_001",
+    "outcome": "CONFIRMED_RING",
+    "pattern": "shared_device_staggered",
+    "size": 9,
+    "shared_attributes": [
+      "device_id"
+    ],
+    "summary": "Confirmed coordinated-abuse ring: 9 accounts, pattern=shared_device_staggered, linked via ['device_id']. Action taken: escalated for review."
+  },
+  {
+    "case_id": "case_ring_002",
+    "outcome": "CONFIRMED_RING",
+    "pattern": "shared_device_staggered",
+    "size": 4,
+    "shared_attributes": [
+      "device_id"
+    ],
+    "summary": "Confirmed coordinated-abuse ring: 4 accounts, pattern=shared_device_staggered, linked via ['device_id']. Action taken: escalated for review."
+  },
+  {
+    "case_id": "case_ring_003",
+    "outcome": "CONFIRMED_RING",
+    "pattern": "shared_payment_burst",
+    "size": 6,
+    "shared_attributes": [
+      "payment_token",
+      "burst_window_minutes"
+    ],
+    "summary": "Confirmed coordinated-abuse ring: 6 accounts, pattern=shared_payment_burst, linked via ['payment_token', 'burst_window_minutes']. Action taken: escalated for review."
+  },
+  {
+    "case_id": "case_ring_004",
+    "outcome": "CONFIRMED_RING",
+    "pattern": "shared_payment_burst",
+    "size": 8,
+    "shared_attributes": [
+      "payment_token",
+      "burst_window_minutes"
+    ],
+    "summary": "Confirmed coordinated-abuse ring: 8 accounts, pattern=shared_payment_burst, linked via ['payment_token', 'burst_window_minutes']. Action taken: escalated for review."
+  },
+  {
+    "case_id": "case_ring_005",
+    "outcome": "CONFIRMED_RING",
+    "pattern": "address_cluster_sequential",
+    "size": 6,
+    "shared_attributes": [
+      "billing_address_hash"
+    ],
+    "summary": "Confirmed coordinated-abuse ring: 6 accounts, pattern=address_cluster_sequential, linked via ['billing_address_hash']. Action taken: escalated for review."
+  },
+  {
+    "case_id": "case_ring_006",
+    "outcome": "CONFIRMED_RING",
+    "pattern": "address_cluster_sequential",
+    "size": 6,
+    "shared_attributes": [
+      "billing_address_hash"
+    ],
+    "summary": "Confirmed coordinated-abuse ring: 6 accounts, pattern=address_cluster_sequential, linked via ['billing_address_hash']. Action taken: escalated for review."
+  },
+  {
+    "case_id": "case_candidate_158_false_alarm",
+    "outcome": "FALSE_ALARM_REAL_CLUSTER",
+    "pattern": "single_attribute_cluster",
+    "size": 13,
+    "shared_attributes": [
+      "billing_address_hash"
+    ],
+    "summary": "Investigated cluster: 13 accounts sharing only billing_address_hash, ring_risk_score=0.696. Determined to be a genuine real-world cluster (e.g. shared neighborhood/zip code), not coordinated abuse -- single shared attribute type, no burst timing, no cross-attribute linkage. Action taken: no escalation, closed as false alarm."
+  },
+  {
+    "case_id": "case_candidate_108_false_alarm",
+    "outcome": "FALSE_ALARM_REAL_CLUSTER",
+    "pattern": "single_attribute_cluster",
+    "size": 23,
+    "shared_attributes": [
+      "billing_address_hash"
+    ],
+    "summary": "Investigated cluster: 23 accounts sharing only billing_address_hash, ring_risk_score=0.695. Determined to be a genuine real-world cluster (e.g. shared neighborhood/zip code), not coordinated abuse -- single shared attribute type, no burst timing, no cross-attribute linkage. Action taken: no escalation, closed as false alarm."
+  },
+  {
+    "case_id": "case_candidate_086_false_alarm",
+    "outcome": "FALSE_ALARM_REAL_CLUSTER",
+    "pattern": "single_attribute_cluster",
+    "size": 11,
+    "shared_attributes": [
+      "payment_token"
+    ],
+    "summary": "Investigated cluster: 11 accounts sharing only payment_token, ring_risk_score=0.692. Determined to be a genuine real-world cluster (e.g. shared neighborhood/zip code), not coordinated abuse -- single shared attribute type, no burst timing, no cross-attribute linkage. Action taken: no escalation, closed as false alarm."
+  },
+  {
+    "case_id": "case_candidate_044_false_alarm",
+    "outcome": "FALSE_ALARM_REAL_CLUSTER",
+    "pattern": "single_attribute_cluster",
+    "size": 27,
+    "shared_attributes": [
+      "billing_address_hash"
+    ],
+    "summary": "Investigated cluster: 27 accounts sharing only billing_address_hash, ring_risk_score=0.691. Determined to be a genuine real-world cluster (e.g. shared neighborhood/zip code), not coordinated abuse -- single shared attribute type, no burst timing, no cross-attribute linkage. Action taken: no escalation, closed as false alarm."
+  },
+  {
+    "case_id": "case_candidate_021_false_alarm",
+    "outcome": "FALSE_ALARM_REAL_CLUSTER",
+    "pattern": "single_attribute_cluster",
+    "size": 19,
+    "shared_attributes": [
+      "billing_address_hash"
+    ],
+    "summary": "Investigated cluster: 19 accounts sharing only billing_address_hash, ring_risk_score=0.691. Determined to be a genuine real-world cluster (e.g. shared neighborhood/zip code), not coordinated abuse -- single shared attribute type, no burst timing, no cross-attribute linkage. Action taken: no escalation, closed as false alarm."
+  },
+  {
+    "case_id": "case_candidate_106_false_alarm",
+    "outcome": "FALSE_ALARM_REAL_CLUSTER",
+    "pattern": "single_attribute_cluster",
+    "size": 19,
+    "shared_attributes": [
+      "billing_address_hash"
+    ],
+    "summary": "Investigated cluster: 19 accounts sharing only billing_address_hash, ring_risk_score=0.69. Determined to be a genuine real-world cluster (e.g. shared neighborhood/zip code), not coordinated abuse -- single shared attribute type, no burst timing, no cross-attribute linkage. Action taken: no escalation, closed as false alarm."
+  }
+]

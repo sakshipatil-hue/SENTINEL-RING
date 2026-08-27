@@ -1,0 +1,4056 @@
+[
+  {
+    "candidate_id": "candidate_042",
+    "member_accounts": [
+      "acc_00079",
+      "acc_00175",
+      "acc_00318",
+      "acc_00647",
+      "acc_00657",
+      "acc_00679",
+      "acc_00700",
+      "acc_00765",
+      "acc_00867",
+      "acc_00874",
+      "acc_00929",
+      "acc_00940",
+      "acc_00997",
+      "acc_00998",
+      "acc_01075",
+      "acc_01139",
+      "acc_01210",
+      "acc_01213",
+      "acc_01249",
+      "acc_01275",
+      "acc_01329",
+      "acc_01354",
+      "acc_01362",
+      "acc_01468"
+    ],
+    "size": 24,
+    "size_score": 1.0,
+    "density_score": 0.92,
+    "shared_attribute_score": 1.0,
+    "burst_score": 0.037,
+    "ring_risk_score": 0.832,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_103",
+    "member_accounts": [
+      "acc_00100",
+      "acc_00180",
+      "acc_00254",
+      "acc_00307",
+      "acc_00417",
+      "acc_00568",
+      "acc_00949",
+      "acc_01136",
+      "acc_01256",
+      "acc_01401"
+    ],
+    "size": 10,
+    "size_score": 1.0,
+    "density_score": 0.889,
+    "shared_attribute_score": 1.0,
+    "burst_score": 0.028,
+    "ring_risk_score": 0.821,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_026",
+    "member_accounts": [
+      "acc_00086",
+      "acc_00103",
+      "acc_00350",
+      "acc_00451",
+      "acc_00632",
+      "acc_00676",
+      "acc_00788",
+      "acc_00841",
+      "acc_01012",
+      "acc_01201",
+      "acc_01221",
+      "acc_01297",
+      "acc_01418",
+      "acc_01474",
+      "acc_01482"
+    ],
+    "size": 15,
+    "size_score": 1.0,
+    "density_score": 0.876,
+    "shared_attribute_score": 1.0,
+    "burst_score": 0.012,
+    "ring_risk_score": 0.815,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_001",
+    "member_accounts": [
+      "acc_00025",
+      "acc_00137",
+      "acc_00250",
+      "acc_00280",
+      "acc_00538",
+      "acc_00539",
+      "acc_00702",
+      "acc_00708",
+      "acc_00772",
+      "acc_00804",
+      "acc_00810",
+      "acc_00814",
+      "acc_00837",
+      "acc_00950",
+      "acc_00972",
+      "acc_01035",
+      "acc_01046",
+      "acc_01060",
+      "acc_01062",
+      "acc_01069",
+      "acc_01072",
+      "acc_01129",
+      "acc_01303",
+      "acc_01320",
+      "acc_01358"
+    ],
+    "size": 25,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.05,
+    "ring_risk_score": 0.774,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_008",
+    "member_accounts": [
+      "acc_00092",
+      "acc_00208",
+      "acc_00267",
+      "acc_00279",
+      "acc_00281",
+      "acc_00338",
+      "acc_00351",
+      "acc_00366",
+      "acc_00385",
+      "acc_00387",
+      "acc_00403",
+      "acc_00579",
+      "acc_00698",
+      "acc_00707",
+      "acc_00859",
+      "acc_00939",
+      "acc_00992",
+      "acc_01009",
+      "acc_01074",
+      "acc_01082",
+      "acc_01234",
+      "acc_01319",
+      "acc_01479"
+    ],
+    "size": 23,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.032,
+    "ring_risk_score": 0.772,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_059",
+    "member_accounts": [
+      "acc_00143",
+      "acc_00393",
+      "acc_00405",
+      "acc_00483",
+      "acc_00527",
+      "acc_00604",
+      "acc_00637",
+      "acc_00682",
+      "acc_00749",
+      "acc_00880",
+      "acc_00882",
+      "acc_01191",
+      "acc_01206",
+      "acc_01208",
+      "acc_01255",
+      "acc_01260",
+      "acc_01281",
+      "acc_01359"
+    ],
+    "size": 18,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.026,
+    "ring_risk_score": 0.771,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_006",
+    "member_accounts": [
+      "acc_00005",
+      "acc_00121",
+      "acc_00172",
+      "acc_00218",
+      "acc_00294",
+      "acc_00441",
+      "acc_00458",
+      "acc_00509",
+      "acc_00562",
+      "acc_00786",
+      "acc_00808",
+      "acc_00844",
+      "acc_00919",
+      "acc_01043",
+      "acc_01053",
+      "acc_01121",
+      "acc_01190",
+      "acc_01231",
+      "acc_01340",
+      "acc_01417",
+      "acc_01430",
+      "acc_01466",
+      "acc_01472"
+    ],
+    "size": 23,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.022,
+    "ring_risk_score": 0.77,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_094",
+    "member_accounts": [
+      "acc_00038",
+      "acc_00042",
+      "acc_00127",
+      "acc_00161",
+      "acc_00204",
+      "acc_00287",
+      "acc_00552",
+      "acc_00620",
+      "acc_00705",
+      "acc_00712",
+      "acc_00714",
+      "acc_00719",
+      "acc_00784",
+      "acc_00975",
+      "acc_00985",
+      "acc_01224",
+      "acc_01345",
+      "acc_01478"
+    ],
+    "size": 18,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.022,
+    "ring_risk_score": 0.77,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_060",
+    "member_accounts": [
+      "acc_00094",
+      "acc_00309",
+      "acc_00335",
+      "acc_00418",
+      "acc_00420",
+      "acc_00543",
+      "acc_00558",
+      "acc_00596",
+      "acc_01195",
+      "acc_01232",
+      "acc_01343",
+      "acc_01435"
+    ],
+    "size": 12,
+    "size_score": 1.0,
+    "density_score": 0.652,
+    "shared_attribute_score": 1.0,
+    "burst_score": 0.022,
+    "ring_risk_score": 0.749,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_065",
+    "member_accounts": [
+      "acc_00019",
+      "acc_00199",
+      "acc_00292",
+      "acc_00377",
+      "acc_00392",
+      "acc_00401",
+      "acc_00497",
+      "acc_00570",
+      "acc_00575",
+      "acc_00593",
+      "acc_00594",
+      "acc_00623",
+      "acc_01047",
+      "acc_01218",
+      "acc_01243",
+      "acc_01276",
+      "acc_01278",
+      "acc_01283",
+      "acc_01390",
+      "acc_01425",
+      "acc_01429"
+    ],
+    "size": 21,
+    "size_score": 1.0,
+    "density_score": 0.91,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.054,
+    "ring_risk_score": 0.748,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_029",
+    "member_accounts": [
+      "acc_00014",
+      "acc_00035",
+      "acc_00306",
+      "acc_00391",
+      "acc_00459",
+      "acc_00490",
+      "acc_00583",
+      "acc_00644",
+      "acc_00650",
+      "acc_00672",
+      "acc_00706",
+      "acc_00716",
+      "acc_00879",
+      "acc_00923",
+      "acc_01087",
+      "acc_01117",
+      "acc_01178",
+      "acc_01286",
+      "acc_01298",
+      "acc_01405",
+      "acc_01442"
+    ],
+    "size": 21,
+    "size_score": 1.0,
+    "density_score": 0.91,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.016,
+    "ring_risk_score": 0.742,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_053",
+    "member_accounts": [
+      "acc_00059",
+      "acc_00061",
+      "acc_00216",
+      "acc_00217",
+      "acc_00311",
+      "acc_00358",
+      "acc_00456",
+      "acc_00704",
+      "acc_00768",
+      "acc_00815",
+      "acc_00973",
+      "acc_01003",
+      "acc_01034",
+      "acc_01044",
+      "acc_01054",
+      "acc_01294",
+      "acc_01348",
+      "acc_01396"
+    ],
+    "size": 18,
+    "size_score": 1.0,
+    "density_score": 0.895,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.033,
+    "ring_risk_score": 0.74,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_049",
+    "member_accounts": [
+      "acc_00064",
+      "acc_00577",
+      "acc_00585",
+      "acc_00802",
+      "acc_00898",
+      "acc_00933",
+      "acc_01207",
+      "acc_01403"
+    ],
+    "size": 8,
+    "size_score": 0.8,
+    "density_score": 0.821,
+    "shared_attribute_score": 1.0,
+    "burst_score": 0.016,
+    "ring_risk_score": 0.739,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_144",
+    "member_accounts": [
+      "acc_00001",
+      "acc_00078",
+      "acc_00144",
+      "acc_00411",
+      "acc_00525",
+      "acc_00553",
+      "acc_00640",
+      "acc_00701",
+      "acc_00999",
+      "acc_01107",
+      "acc_01138",
+      "acc_01146",
+      "acc_01263",
+      "acc_01338"
+    ],
+    "size": 14,
+    "size_score": 1.0,
+    "density_score": 0.868,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.024,
+    "ring_risk_score": 0.731,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_091",
+    "member_accounts": [
+      "acc_00219",
+      "acc_00325",
+      "acc_00330",
+      "acc_00331",
+      "acc_00333"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.753,
+    "ring_risk_score": 0.73,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_046",
+    "member_accounts": [
+      "acc_00622",
+      "acc_00908",
+      "acc_00918",
+      "acc_01032",
+      "acc_01334",
+      "acc_01448"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.524,
+    "ring_risk_score": 0.725,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_036",
+    "member_accounts": [
+      "acc_00185",
+      "acc_00206",
+      "acc_00220",
+      "acc_00282",
+      "acc_00432",
+      "acc_00460",
+      "acc_00471",
+      "acc_00487",
+      "acc_00515",
+      "acc_00524",
+      "acc_00546",
+      "acc_00566",
+      "acc_00598",
+      "acc_00628",
+      "acc_00671",
+      "acc_00673",
+      "acc_01056",
+      "acc_01149",
+      "acc_01177",
+      "acc_01384",
+      "acc_01404",
+      "acc_01410",
+      "acc_01422"
+    ],
+    "size": 23,
+    "size_score": 1.0,
+    "density_score": 0.838,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.032,
+    "ring_risk_score": 0.723,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_003",
+    "member_accounts": [
+      "acc_00027",
+      "acc_00081",
+      "acc_00090",
+      "acc_00163",
+      "acc_00192",
+      "acc_00500",
+      "acc_00503",
+      "acc_00722",
+      "acc_00736",
+      "acc_00763",
+      "acc_00805",
+      "acc_00968",
+      "acc_01024",
+      "acc_01039",
+      "acc_01068",
+      "acc_01071",
+      "acc_01189",
+      "acc_01219",
+      "acc_01400",
+      "acc_01423",
+      "acc_01456"
+    ],
+    "size": 21,
+    "size_score": 1.0,
+    "density_score": 0.824,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.02,
+    "ring_risk_score": 0.717,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_023",
+    "member_accounts": [
+      "acc_00057",
+      "acc_00261",
+      "acc_00912",
+      "acc_00928",
+      "acc_01000",
+      "acc_01106",
+      "acc_01188",
+      "acc_01258"
+    ],
+    "size": 8,
+    "size_score": 0.8,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.043,
+    "ring_risk_score": 0.713,
+    "shared_attributes_involved": [
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_133",
+    "member_accounts": [
+      "acc_00571",
+      "acc_00625",
+      "acc_00638",
+      "acc_00870",
+      "acc_00897",
+      "acc_01078",
+      "acc_01220",
+      "acc_01342",
+      "acc_01347"
+    ],
+    "size": 9,
+    "size_score": 0.9,
+    "density_score": 0.806,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.233,
+    "ring_risk_score": 0.713,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_067",
+    "member_accounts": [
+      "acc_00123",
+      "acc_00138",
+      "acc_00231",
+      "acc_00271",
+      "acc_00322",
+      "acc_00514",
+      "acc_00586",
+      "acc_00589",
+      "acc_00618",
+      "acc_00721",
+      "acc_00812",
+      "acc_00955",
+      "acc_00960",
+      "acc_00976",
+      "acc_01143",
+      "acc_01323",
+      "acc_01333",
+      "acc_01454"
+    ],
+    "size": 18,
+    "size_score": 1.0,
+    "density_score": 0.804,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.018,
+    "ring_risk_score": 0.711,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_064",
+    "member_accounts": [
+      "acc_00159",
+      "acc_00225",
+      "acc_00563",
+      "acc_00886",
+      "acc_00974",
+      "acc_01304",
+      "acc_01476",
+      "acc_01484"
+    ],
+    "size": 8,
+    "size_score": 0.8,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.013,
+    "ring_risk_score": 0.709,
+    "shared_attributes_involved": [
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_012",
+    "member_accounts": [
+      "acc_00234",
+      "acc_00378",
+      "acc_00535",
+      "acc_00536",
+      "acc_00549",
+      "acc_00597",
+      "acc_00866",
+      "acc_00891",
+      "acc_00895",
+      "acc_00942",
+      "acc_01122",
+      "acc_01145",
+      "acc_01148",
+      "acc_01165",
+      "acc_01254",
+      "acc_01446"
+    ],
+    "size": 16,
+    "size_score": 1.0,
+    "density_score": 0.775,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.036,
+    "ring_risk_score": 0.705,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_071",
+    "member_accounts": [
+      "acc_00921",
+      "acc_00922",
+      "acc_00937",
+      "acc_00954",
+      "acc_00956",
+      "acc_00958"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.374,
+    "ring_risk_score": 0.703,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_013",
+    "member_accounts": [
+      "acc_00445",
+      "acc_00605",
+      "acc_00641",
+      "acc_00959",
+      "acc_01004",
+      "acc_01245",
+      "acc_01257"
+    ],
+    "size": 7,
+    "size_score": 0.7,
+    "density_score": 0.762,
+    "shared_attribute_score": 1.0,
+    "burst_score": 0.072,
+    "ring_risk_score": 0.699,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_002",
+    "member_accounts": [
+      "acc_00016",
+      "acc_00062",
+      "acc_00149",
+      "acc_00269",
+      "acc_00388",
+      "acc_00402",
+      "acc_00729",
+      "acc_00840",
+      "acc_00948",
+      "acc_01061",
+      "acc_01064",
+      "acc_01140",
+      "acc_01461"
+    ],
+    "size": 13,
+    "size_score": 1.0,
+    "density_score": 0.474,
+    "shared_attribute_score": 1.0,
+    "burst_score": 0.029,
+    "ring_risk_score": 0.697,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_048",
+    "member_accounts": [
+      "acc_00040",
+      "acc_00048",
+      "acc_00049",
+      "acc_00076",
+      "acc_00151",
+      "acc_00154",
+      "acc_00157",
+      "acc_00210",
+      "acc_00578"
+    ],
+    "size": 9,
+    "size_score": 0.9,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.29,
+    "ring_risk_score": 0.697,
+    "shared_attributes_involved": [
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_158",
+    "member_accounts": [
+      "acc_00037",
+      "acc_00052",
+      "acc_00153",
+      "acc_00170",
+      "acc_00171",
+      "acc_00343",
+      "acc_00372",
+      "acc_00639",
+      "acc_00906",
+      "acc_01337",
+      "acc_01406",
+      "acc_01463",
+      "acc_01480"
+    ],
+    "size": 13,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.083,
+    "ring_risk_score": 0.696,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_108",
+    "member_accounts": [
+      "acc_00039",
+      "acc_00045",
+      "acc_00050",
+      "acc_00063",
+      "acc_00139",
+      "acc_00197",
+      "acc_00205",
+      "acc_00285",
+      "acc_00296",
+      "acc_00375",
+      "acc_00429",
+      "acc_00434",
+      "acc_00495",
+      "acc_00517",
+      "acc_00545",
+      "acc_00602",
+      "acc_00634",
+      "acc_00718",
+      "acc_01182",
+      "acc_01212",
+      "acc_01259",
+      "acc_01383",
+      "acc_01477"
+    ],
+    "size": 23,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.079,
+    "ring_risk_score": 0.695,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_092",
+    "member_accounts": [
+      "acc_00099",
+      "acc_00257",
+      "acc_00264",
+      "acc_00305",
+      "acc_00440",
+      "acc_00528",
+      "acc_00651",
+      "acc_00667",
+      "acc_00903",
+      "acc_00931",
+      "acc_01162",
+      "acc_01299",
+      "acc_01440"
+    ],
+    "size": 13,
+    "size_score": 1.0,
+    "density_score": 0.744,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.027,
+    "ring_risk_score": 0.694,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_086",
+    "member_accounts": [
+      "acc_00008",
+      "acc_00265",
+      "acc_00268",
+      "acc_00278",
+      "acc_00301",
+      "acc_00344",
+      "acc_00504",
+      "acc_00511",
+      "acc_00858",
+      "acc_00893",
+      "acc_01018"
+    ],
+    "size": 11,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.059,
+    "ring_risk_score": 0.692,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_021",
+    "member_accounts": [
+      "acc_00026",
+      "acc_00032",
+      "acc_00044",
+      "acc_00068",
+      "acc_00245",
+      "acc_00251",
+      "acc_00624",
+      "acc_00627",
+      "acc_00693",
+      "acc_00829",
+      "acc_00832",
+      "acc_00851",
+      "acc_00875",
+      "acc_00945",
+      "acc_01073",
+      "acc_01150",
+      "acc_01311",
+      "acc_01386",
+      "acc_01421"
+    ],
+    "size": 19,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.053,
+    "ring_risk_score": 0.691,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_040",
+    "member_accounts": [
+      "acc_00186",
+      "acc_00242",
+      "acc_00400",
+      "acc_00537",
+      "acc_00656",
+      "acc_00735",
+      "acc_01181",
+      "acc_01185",
+      "acc_01187"
+    ],
+    "size": 9,
+    "size_score": 0.9,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.364,
+    "ring_risk_score": 0.691,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_044",
+    "member_accounts": [
+      "acc_00053",
+      "acc_00209",
+      "acc_00289",
+      "acc_00415",
+      "acc_00447",
+      "acc_00531",
+      "acc_00636",
+      "acc_00710",
+      "acc_00727",
+      "acc_00747",
+      "acc_00828",
+      "acc_00868",
+      "acc_00883",
+      "acc_00896",
+      "acc_00917",
+      "acc_00957",
+      "acc_00965",
+      "acc_01001",
+      "acc_01086",
+      "acc_01123",
+      "acc_01167",
+      "acc_01184",
+      "acc_01205",
+      "acc_01237",
+      "acc_01310",
+      "acc_01393",
+      "acc_01450"
+    ],
+    "size": 27,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.05,
+    "ring_risk_score": 0.691,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_015",
+    "member_accounts": [
+      "acc_00238",
+      "acc_00295",
+      "acc_00324",
+      "acc_00466",
+      "acc_00477",
+      "acc_00480",
+      "acc_00484",
+      "acc_00491",
+      "acc_00506",
+      "acc_00510",
+      "acc_00534",
+      "acc_00709"
+    ],
+    "size": 12,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.044,
+    "ring_risk_score": 0.69,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_106",
+    "member_accounts": [
+      "acc_00498",
+      "acc_00565",
+      "acc_00569",
+      "acc_00674",
+      "acc_00675",
+      "acc_00687",
+      "acc_00724",
+      "acc_00758",
+      "acc_00817",
+      "acc_00825",
+      "acc_00899",
+      "acc_00953",
+      "acc_01030",
+      "acc_01114",
+      "acc_01127",
+      "acc_01227",
+      "acc_01266",
+      "acc_01360",
+      "acc_01445"
+    ],
+    "size": 19,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.044,
+    "ring_risk_score": 0.69,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_031",
+    "member_accounts": [
+      "acc_00000",
+      "acc_00015",
+      "acc_00031",
+      "acc_00036",
+      "acc_00055",
+      "acc_00075",
+      "acc_00109",
+      "acc_00112",
+      "acc_00113",
+      "acc_00122",
+      "acc_00140",
+      "acc_00193",
+      "acc_00263",
+      "acc_00272",
+      "acc_00290",
+      "acc_00357",
+      "acc_00368",
+      "acc_00414",
+      "acc_00489",
+      "acc_00496",
+      "acc_00530",
+      "acc_00532",
+      "acc_00550",
+      "acc_00554",
+      "acc_00776",
+      "acc_00881",
+      "acc_00892",
+      "acc_00930",
+      "acc_01361",
+      "acc_01376",
+      "acc_01419",
+      "acc_01431"
+    ],
+    "size": 32,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.035,
+    "ring_risk_score": 0.689,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_035",
+    "member_accounts": [
+      "acc_00228",
+      "acc_00291",
+      "acc_00300",
+      "acc_00319",
+      "acc_00542",
+      "acc_00643",
+      "acc_01041",
+      "acc_01367",
+      "acc_01379",
+      "acc_01415"
+    ],
+    "size": 10,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.039,
+    "ring_risk_score": 0.689,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_078",
+    "member_accounts": [
+      "acc_00120",
+      "acc_00145",
+      "acc_00478",
+      "acc_00683",
+      "acc_00697",
+      "acc_00797",
+      "acc_00996",
+      "acc_01077",
+      "acc_01079",
+      "acc_01222",
+      "acc_01235",
+      "acc_01336"
+    ],
+    "size": 12,
+    "size_score": 1.0,
+    "density_score": 0.727,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.026,
+    "ring_risk_score": 0.689,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_117",
+    "member_accounts": [
+      "acc_00177",
+      "acc_00321",
+      "acc_00502",
+      "acc_00529",
+      "acc_00592",
+      "acc_00775",
+      "acc_00947",
+      "acc_00995",
+      "acc_01124",
+      "acc_01203",
+      "acc_01240",
+      "acc_01250",
+      "acc_01251",
+      "acc_01273",
+      "acc_01300",
+      "acc_01387",
+      "acc_01411"
+    ],
+    "size": 17,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.04,
+    "ring_risk_score": 0.689,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_022",
+    "member_accounts": [
+      "acc_00006",
+      "acc_00030",
+      "acc_00047",
+      "acc_00101",
+      "acc_00129",
+      "acc_00723",
+      "acc_00750",
+      "acc_00770",
+      "acc_00783",
+      "acc_00809",
+      "acc_00888",
+      "acc_00890",
+      "acc_00905",
+      "acc_00944",
+      "acc_01036",
+      "acc_01133",
+      "acc_01169",
+      "acc_01248",
+      "acc_01349",
+      "acc_01462",
+      "acc_01465",
+      "acc_01475"
+    ],
+    "size": 22,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.03,
+    "ring_risk_score": 0.688,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_027",
+    "member_accounts": [
+      "acc_00178",
+      "acc_00260",
+      "acc_00293",
+      "acc_00386",
+      "acc_00396",
+      "acc_00452",
+      "acc_00492",
+      "acc_00573",
+      "acc_00608",
+      "acc_00629",
+      "acc_00670",
+      "acc_00680",
+      "acc_00781",
+      "acc_00842",
+      "acc_01016",
+      "acc_01097",
+      "acc_01105",
+      "acc_01144",
+      "acc_01239",
+      "acc_01368"
+    ],
+    "size": 20,
+    "size_score": 1.0,
+    "density_score": 0.732,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.013,
+    "ring_risk_score": 0.688,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_070",
+    "member_accounts": [
+      "acc_00080",
+      "acc_00155",
+      "acc_00200",
+      "acc_00249",
+      "acc_00256",
+      "acc_00327",
+      "acc_00345",
+      "acc_00523",
+      "acc_00581",
+      "acc_00813",
+      "acc_00821",
+      "acc_00823",
+      "acc_00845",
+      "acc_00846",
+      "acc_00850",
+      "acc_00853",
+      "acc_00865",
+      "acc_01031",
+      "acc_01037",
+      "acc_01161",
+      "acc_01174",
+      "acc_01179",
+      "acc_01242",
+      "acc_01265",
+      "acc_01385",
+      "acc_01414",
+      "acc_01441",
+      "acc_01453"
+    ],
+    "size": 28,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.028,
+    "ring_risk_score": 0.688,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_080",
+    "member_accounts": [
+      "acc_00058",
+      "acc_00065",
+      "acc_00203",
+      "acc_00275",
+      "acc_00479",
+      "acc_00603",
+      "acc_00646",
+      "acc_00741",
+      "acc_00935",
+      "acc_01005",
+      "acc_01141",
+      "acc_01198",
+      "acc_01279",
+      "acc_01346",
+      "acc_01355"
+    ],
+    "size": 15,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.028,
+    "ring_risk_score": 0.688,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_099",
+    "member_accounts": [
+      "acc_00382",
+      "acc_00410",
+      "acc_00559",
+      "acc_00652",
+      "acc_00654",
+      "acc_00696",
+      "acc_00717",
+      "acc_00854",
+      "acc_00924",
+      "acc_01020",
+      "acc_01050",
+      "acc_01083",
+      "acc_01094",
+      "acc_01209",
+      "acc_01352",
+      "acc_01389"
+    ],
+    "size": 16,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.03,
+    "ring_risk_score": 0.688,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_112",
+    "member_accounts": [
+      "acc_00130",
+      "acc_00150",
+      "acc_00167",
+      "acc_00190",
+      "acc_00237",
+      "acc_00315",
+      "acc_00424",
+      "acc_00446",
+      "acc_00450",
+      "acc_00462",
+      "acc_00463",
+      "acc_00681",
+      "acc_00690",
+      "acc_00766",
+      "acc_00793",
+      "acc_00822",
+      "acc_00827",
+      "acc_00852",
+      "acc_00894",
+      "acc_00904",
+      "acc_00962",
+      "acc_00977",
+      "acc_01008",
+      "acc_01080",
+      "acc_01200",
+      "acc_01312",
+      "acc_01330",
+      "acc_01335",
+      "acc_01341",
+      "acc_01391",
+      "acc_01408",
+      "acc_01444",
+      "acc_01469"
+    ],
+    "size": 33,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.028,
+    "ring_risk_score": 0.688,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_162",
+    "member_accounts": [
+      "acc_00131",
+      "acc_00226",
+      "acc_00277",
+      "acc_00298",
+      "acc_00323",
+      "acc_00326",
+      "acc_00359",
+      "acc_00383",
+      "acc_00390",
+      "acc_00439",
+      "acc_00467",
+      "acc_00576",
+      "acc_00601",
+      "acc_00606",
+      "acc_00738",
+      "acc_00745",
+      "acc_00754",
+      "acc_00755",
+      "acc_00762",
+      "acc_01270",
+      "acc_01301",
+      "acc_01317",
+      "acc_01325",
+      "acc_01327"
+    ],
+    "size": 24,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.033,
+    "ring_risk_score": 0.688,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_050",
+    "member_accounts": [
+      "acc_00082",
+      "acc_00133",
+      "acc_00273",
+      "acc_00314",
+      "acc_00481",
+      "acc_00626",
+      "acc_00633",
+      "acc_00691",
+      "acc_00737",
+      "acc_00779",
+      "acc_00872",
+      "acc_00914",
+      "acc_00961",
+      "acc_01007",
+      "acc_01015",
+      "acc_01135",
+      "acc_01153",
+      "acc_01166",
+      "acc_01173",
+      "acc_01176",
+      "acc_01375",
+      "acc_01392"
+    ],
+    "size": 22,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.028,
+    "ring_risk_score": 0.687,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_084",
+    "member_accounts": [
+      "acc_00004",
+      "acc_00043",
+      "acc_00054",
+      "acc_00085",
+      "acc_00191",
+      "acc_00236",
+      "acc_00381",
+      "acc_00677",
+      "acc_00748",
+      "acc_01155",
+      "acc_01356",
+      "acc_01457",
+      "acc_01458"
+    ],
+    "size": 13,
+    "size_score": 1.0,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.025,
+    "ring_risk_score": 0.687,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_105",
+    "member_accounts": [
+      "acc_00108",
+      "acc_00174",
+      "acc_00247",
+      "acc_00428",
+      "acc_00740",
+      "acc_00751",
+      "acc_00760",
+      "acc_01025",
+      "acc_01413"
+    ],
+    "size": 9,
+    "size_score": 0.9,
+    "density_score": 0.806,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.043,
+    "ring_risk_score": 0.685,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_179",
+    "member_accounts": [
+      "acc_00093",
+      "acc_00105",
+      "acc_00183",
+      "acc_00684",
+      "acc_00728",
+      "acc_00761",
+      "acc_00790",
+      "acc_00902",
+      "acc_01019"
+    ],
+    "size": 9,
+    "size_score": 0.9,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.197,
+    "ring_risk_score": 0.683,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_095",
+    "member_accounts": [
+      "acc_00329",
+      "acc_00370",
+      "acc_00384",
+      "acc_00395",
+      "acc_00444",
+      "acc_00610",
+      "acc_00665",
+      "acc_00695",
+      "acc_00713",
+      "acc_00726",
+      "acc_00780",
+      "acc_01027",
+      "acc_01042",
+      "acc_01095",
+      "acc_01307",
+      "acc_01449"
+    ],
+    "size": 16,
+    "size_score": 1.0,
+    "density_score": 0.683,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.041,
+    "ring_risk_score": 0.678,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_104",
+    "member_accounts": [
+      "acc_00188",
+      "acc_00189",
+      "acc_00196",
+      "acc_00692",
+      "acc_01339"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.8,
+    "shared_attribute_score": 1.0,
+    "burst_score": 0.208,
+    "ring_risk_score": 0.671,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_146",
+    "member_accounts": [
+      "acc_00003",
+      "acc_00060",
+      "acc_00070",
+      "acc_00299",
+      "acc_00731",
+      "acc_00789",
+      "acc_00916",
+      "acc_01055",
+      "acc_01172"
+    ],
+    "size": 9,
+    "size_score": 0.9,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.07,
+    "ring_risk_score": 0.664,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_051",
+    "member_accounts": [
+      "acc_00098",
+      "acc_00317",
+      "acc_00412",
+      "acc_00425",
+      "acc_00426",
+      "acc_00443",
+      "acc_00516",
+      "acc_00520"
+    ],
+    "size": 8,
+    "size_score": 0.8,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.236,
+    "ring_risk_score": 0.659,
+    "shared_attributes_involved": [
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_025",
+    "member_accounts": [
+      "acc_00141",
+      "acc_00394",
+      "acc_00493",
+      "acc_00584",
+      "acc_00595",
+      "acc_01186"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.078,
+    "ring_risk_score": 0.658,
+    "shared_attributes_involved": [
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_017",
+    "member_accounts": [
+      "acc_00221",
+      "acc_00284",
+      "acc_00334",
+      "acc_00360",
+      "acc_00379",
+      "acc_00438",
+      "acc_00564",
+      "acc_00659",
+      "acc_01063"
+    ],
+    "size": 9,
+    "size_score": 0.9,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.019,
+    "ring_risk_score": 0.656,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_063",
+    "member_accounts": [
+      "acc_00194",
+      "acc_00258",
+      "acc_00505",
+      "acc_01151",
+      "acc_01175",
+      "acc_01399"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.041,
+    "ring_risk_score": 0.653,
+    "shared_attributes_involved": [
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_039",
+    "member_accounts": [
+      "acc_00146",
+      "acc_00437",
+      "acc_01076",
+      "acc_01091",
+      "acc_01158",
+      "acc_01284",
+      "acc_01293",
+      "acc_01309"
+    ],
+    "size": 8,
+    "size_score": 0.8,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.194,
+    "ring_risk_score": 0.652,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_034",
+    "member_accounts": [
+      "acc_00056",
+      "acc_00089",
+      "acc_00547",
+      "acc_00744",
+      "acc_00769",
+      "acc_01481"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 0.6,
+    "shared_attribute_score": 1.0,
+    "burst_score": 0.252,
+    "ring_risk_score": 0.648,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_056",
+    "member_accounts": [
+      "acc_00347",
+      "acc_00373",
+      "acc_00448",
+      "acc_00449",
+      "acc_00453",
+      "acc_00540",
+      "acc_00662",
+      "acc_00991",
+      "acc_01084",
+      "acc_01229",
+      "acc_01230"
+    ],
+    "size": 11,
+    "size_score": 1.0,
+    "density_score": 0.564,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.071,
+    "ring_risk_score": 0.646,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_077",
+    "member_accounts": [
+      "acc_00046",
+      "acc_00201",
+      "acc_00774",
+      "acc_00778",
+      "acc_00782",
+      "acc_00864",
+      "acc_00871",
+      "acc_01092"
+    ],
+    "size": 8,
+    "size_score": 0.8,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.148,
+    "ring_risk_score": 0.646,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_128",
+    "member_accounts": [
+      "acc_00431",
+      "acc_00685",
+      "acc_00730",
+      "acc_00988",
+      "acc_01132",
+      "acc_01160",
+      "acc_01168",
+      "acc_01204",
+      "acc_01363"
+    ],
+    "size": 9,
+    "size_score": 0.9,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.058,
+    "ring_risk_score": 0.645,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_066",
+    "member_accounts": [
+      "acc_00580",
+      "acc_00978",
+      "acc_00979",
+      "acc_00981",
+      "acc_00984"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.6,
+    "shared_attribute_score": 1.0,
+    "burst_score": 0.426,
+    "ring_risk_score": 0.644,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_076",
+    "member_accounts": [
+      "acc_01011",
+      "acc_01014",
+      "acc_01017",
+      "acc_01108"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.378,
+    "ring_risk_score": 0.643,
+    "shared_attributes_involved": [
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_098",
+    "member_accounts": [
+      "acc_00007",
+      "acc_00125",
+      "acc_00907",
+      "acc_00915",
+      "acc_00925",
+      "acc_00932",
+      "acc_00936",
+      "acc_01357"
+    ],
+    "size": 8,
+    "size_score": 0.8,
+    "density_score": 0.643,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.282,
+    "ring_risk_score": 0.642,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_110",
+    "member_accounts": [
+      "acc_00408",
+      "acc_00419",
+      "acc_00521",
+      "acc_00590",
+      "acc_00811",
+      "acc_01089",
+      "acc_01090",
+      "acc_01223"
+    ],
+    "size": 8,
+    "size_score": 0.8,
+    "density_score": 0.643,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.204,
+    "ring_risk_score": 0.63,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_045",
+    "member_accounts": [
+      "acc_00648",
+      "acc_00649",
+      "acc_01427",
+      "acc_01433",
+      "acc_01439",
+      "acc_01460",
+      "acc_01464"
+    ],
+    "size": 7,
+    "size_score": 0.7,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.235,
+    "ring_risk_score": 0.629,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_131",
+    "member_accounts": [
+      "acc_00233",
+      "acc_00252",
+      "acc_00715",
+      "acc_00734",
+      "acc_00951",
+      "acc_01147",
+      "acc_01152",
+      "acc_01157"
+    ],
+    "size": 8,
+    "size_score": 0.8,
+    "density_score": 0.607,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.269,
+    "ring_risk_score": 0.629,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_082",
+    "member_accounts": [
+      "acc_00162",
+      "acc_01156",
+      "acc_01194",
+      "acc_01314",
+      "acc_01373"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.075,
+    "ring_risk_score": 0.628,
+    "shared_attributes_involved": [
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_043",
+    "member_accounts": [
+      "acc_00034",
+      "acc_00071",
+      "acc_00340",
+      "acc_00380",
+      "acc_00470",
+      "acc_00526",
+      "acc_00548",
+      "acc_00587",
+      "acc_00591",
+      "acc_00607",
+      "acc_00983",
+      "acc_01038",
+      "acc_01048",
+      "acc_01057",
+      "acc_01109",
+      "acc_01211",
+      "acc_01247",
+      "acc_01262",
+      "acc_01288",
+      "acc_01316",
+      "acc_01324",
+      "acc_01424",
+      "acc_01473"
+    ],
+    "size": 23,
+    "size_score": 1.0,
+    "density_score": 0.514,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.027,
+    "ring_risk_score": 0.625,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_032",
+    "member_accounts": [
+      "acc_00115",
+      "acc_00181",
+      "acc_00283",
+      "acc_00461",
+      "acc_00582",
+      "acc_00757",
+      "acc_01313",
+      "acc_01436"
+    ],
+    "size": 8,
+    "size_score": 0.8,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.007,
+    "ring_risk_score": 0.624,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_068",
+    "member_accounts": [
+      "acc_00588",
+      "acc_00799",
+      "acc_00820",
+      "acc_01217"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.251,
+    "ring_risk_score": 0.624,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_107",
+    "member_accounts": [
+      "acc_00024",
+      "acc_00132",
+      "acc_00356",
+      "acc_00421",
+      "acc_00555",
+      "acc_00556"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 0.733,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.373,
+    "ring_risk_score": 0.623,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_038",
+    "member_accounts": [
+      "acc_00473",
+      "acc_00476",
+      "acc_01111",
+      "acc_01119",
+      "acc_01292"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.037,
+    "ring_risk_score": 0.622,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_009",
+    "member_accounts": [
+      "acc_00165",
+      "acc_00270",
+      "acc_00302",
+      "acc_00423",
+      "acc_00635",
+      "acc_01010",
+      "acc_01128",
+      "acc_01215",
+      "acc_01261",
+      "acc_01267",
+      "acc_01302",
+      "acc_01308",
+      "acc_01374",
+      "acc_01380",
+      "acc_01434",
+      "acc_01459"
+    ],
+    "size": 16,
+    "size_score": 1.0,
+    "density_score": 0.492,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.024,
+    "ring_risk_score": 0.618,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_116",
+    "member_accounts": [
+      "acc_00337",
+      "acc_00363",
+      "acc_01295",
+      "acc_01447"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.746,
+    "ring_risk_score": 0.615,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_155",
+    "member_accounts": [
+      "acc_00002",
+      "acc_00018",
+      "acc_00746",
+      "acc_00785",
+      "acc_00787",
+      "acc_00856",
+      "acc_01397"
+    ],
+    "size": 7,
+    "size_score": 0.7,
+    "density_score": 0.762,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.061,
+    "ring_risk_score": 0.614,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_166",
+    "member_accounts": [
+      "acc_00611",
+      "acc_00663",
+      "acc_00664"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.939,
+    "ring_risk_score": 0.614,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_075",
+    "member_accounts": [
+      "acc_00986",
+      "acc_00987",
+      "acc_00990"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.374,
+    "ring_risk_score": 0.613,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_004",
+    "member_accounts": [
+      "acc_00102",
+      "acc_00341",
+      "acc_00422",
+      "acc_00876",
+      "acc_01096",
+      "acc_01326",
+      "acc_01426"
+    ],
+    "size": 7,
+    "size_score": 0.7,
+    "density_score": 0.762,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.026,
+    "ring_risk_score": 0.609,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_016",
+    "member_accounts": [
+      "acc_00013",
+      "acc_00136",
+      "acc_00286",
+      "acc_00519",
+      "acc_00600",
+      "acc_01171",
+      "acc_01344"
+    ],
+    "size": 7,
+    "size_score": 0.7,
+    "density_score": 0.762,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.021,
+    "ring_risk_score": 0.608,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_047",
+    "member_accounts": [
+      "acc_00009",
+      "acc_00010",
+      "acc_00012",
+      "acc_00017",
+      "acc_00021",
+      "acc_00764"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 0.733,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.251,
+    "ring_risk_score": 0.604,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_057",
+    "member_accounts": [
+      "acc_00147",
+      "acc_00369",
+      "acc_00374",
+      "acc_00413",
+      "acc_01093",
+      "acc_01233",
+      "acc_01280",
+      "acc_01372"
+    ],
+    "size": 8,
+    "size_score": 0.8,
+    "density_score": 0.643,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.017,
+    "ring_risk_score": 0.602,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_010",
+    "member_accounts": [
+      "acc_00067",
+      "acc_00248",
+      "acc_00303",
+      "acc_00352",
+      "acc_00406",
+      "acc_01137",
+      "acc_01407"
+    ],
+    "size": 7,
+    "size_score": 0.7,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.024,
+    "ring_risk_score": 0.597,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_123",
+    "member_accounts": [
+      "acc_00126",
+      "acc_00214",
+      "acc_00522",
+      "acc_01241",
+      "acc_01285",
+      "acc_01382",
+      "acc_01412"
+    ],
+    "size": 7,
+    "size_score": 0.7,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.025,
+    "ring_risk_score": 0.597,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_136",
+    "member_accounts": [
+      "acc_00074",
+      "acc_00087",
+      "acc_00091",
+      "acc_00198",
+      "acc_01088",
+      "acc_01126"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 0.733,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.2,
+    "ring_risk_score": 0.597,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_137",
+    "member_accounts": [
+      "acc_00073",
+      "acc_00142",
+      "acc_00223",
+      "acc_01110",
+      "acc_01125",
+      "acc_01180"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.179,
+    "ring_risk_score": 0.59,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_072",
+    "member_accounts": [
+      "acc_00111",
+      "acc_00619",
+      "acc_00963",
+      "acc_01321",
+      "acc_01322",
+      "acc_01331"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 0.733,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.124,
+    "ring_risk_score": 0.585,
+    "shared_attributes_involved": [
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_114",
+    "member_accounts": [
+      "acc_00160",
+      "acc_00240",
+      "acc_00561",
+      "acc_00703",
+      "acc_01272",
+      "acc_01274"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 0.733,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.08,
+    "ring_risk_score": 0.579,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_055",
+    "member_accounts": [
+      "acc_00332",
+      "acc_01100",
+      "acc_01101"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.664,
+    "ring_risk_score": 0.573,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_120",
+    "member_accounts": [
+      "acc_00176",
+      "acc_00179",
+      "acc_00404",
+      "acc_00482",
+      "acc_00642",
+      "acc_00818"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.061,
+    "ring_risk_score": 0.573,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_069",
+    "member_accounts": [
+      "acc_00803",
+      "acc_00806",
+      "acc_00807"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.757,
+    "ring_risk_score": 0.57,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_030",
+    "member_accounts": [
+      "acc_00235",
+      "acc_00313",
+      "acc_00934",
+      "acc_01023",
+      "acc_01029",
+      "acc_01202",
+      "acc_01315"
+    ],
+    "size": 7,
+    "size_score": 0.7,
+    "density_score": 0.619,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.041,
+    "ring_risk_score": 0.569,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_167",
+    "member_accounts": [
+      "acc_00615",
+      "acc_00994"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.833,
+    "ring_risk_score": 0.568,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_020",
+    "member_accounts": [
+      "acc_00253",
+      "acc_00472",
+      "acc_00513",
+      "acc_00836",
+      "acc_00862",
+      "acc_01045"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.015,
+    "ring_risk_score": 0.566,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_037",
+    "member_accounts": [
+      "acc_00118",
+      "acc_00182",
+      "acc_00361",
+      "acc_00398",
+      "acc_00512",
+      "acc_01252"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.015,
+    "ring_risk_score": 0.566,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_101",
+    "member_accounts": [
+      "acc_00232",
+      "acc_00288",
+      "acc_00771",
+      "acc_00900",
+      "acc_01052",
+      "acc_01120"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 0.4,
+    "shared_attribute_score": 1.0,
+    "burst_score": 0.103,
+    "ring_risk_score": 0.565,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_125",
+    "member_accounts": [
+      "acc_00084",
+      "acc_00211",
+      "acc_00215",
+      "acc_00436",
+      "acc_00966"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.7,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.246,
+    "ring_risk_score": 0.564,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_141",
+    "member_accounts": [
+      "acc_00255",
+      "acc_00468",
+      "acc_00541",
+      "acc_01130",
+      "acc_01164",
+      "acc_01170",
+      "acc_01193"
+    ],
+    "size": 7,
+    "size_score": 0.7,
+    "density_score": 0.571,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.103,
+    "ring_risk_score": 0.564,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_149",
+    "member_accounts": [
+      "acc_00686",
+      "acc_00834",
+      "acc_00839",
+      "acc_00843",
+      "acc_01328"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.7,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.215,
+    "ring_risk_score": 0.559,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_083",
+    "member_accounts": [
+      "acc_00077",
+      "acc_00617",
+      "acc_00993",
+      "acc_01395",
+      "acc_01398"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.6,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.406,
+    "ring_risk_score": 0.558,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_074",
+    "member_accounts": [
+      "acc_00507",
+      "acc_00943",
+      "acc_00946",
+      "acc_00969"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 0.833,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.121,
+    "ring_risk_score": 0.555,
+    "shared_attributes_involved": [
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_079",
+    "member_accounts": [
+      "acc_00328",
+      "acc_00572",
+      "acc_01131",
+      "acc_01246",
+      "acc_01268",
+      "acc_01271"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 0.533,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.324,
+    "ring_risk_score": 0.555,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_081",
+    "member_accounts": [
+      "acc_01370",
+      "acc_01371"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.732,
+    "ring_risk_score": 0.553,
+    "shared_attributes_involved": [
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_150",
+    "member_accounts": [
+      "acc_00407",
+      "acc_00926",
+      "acc_01002",
+      "acc_01028",
+      "acc_01033",
+      "acc_01040"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 0.6,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.175,
+    "ring_risk_score": 0.553,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_165",
+    "member_accounts": [
+      "acc_00612",
+      "acc_00877",
+      "acc_00878"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.53,
+    "ring_risk_score": 0.553,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_089",
+    "member_accounts": [
+      "acc_00166",
+      "acc_00169",
+      "acc_00184",
+      "acc_00557"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.318,
+    "ring_risk_score": 0.551,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_100",
+    "member_accounts": [
+      "acc_00614",
+      "acc_00980",
+      "acc_00982",
+      "acc_01438"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.317,
+    "ring_risk_score": 0.551,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_018",
+    "member_accounts": [
+      "acc_00711",
+      "acc_00794",
+      "acc_00795",
+      "acc_00796"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.421,
+    "ring_risk_score": 0.55,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_168",
+    "member_accounts": [
+      "acc_00616",
+      "acc_01142",
+      "acc_01394"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.513,
+    "ring_risk_score": 0.55,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_161",
+    "member_accounts": [
+      "acc_00095",
+      "acc_00106",
+      "acc_00107",
+      "acc_00339",
+      "acc_00342",
+      "acc_00857"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 0.467,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.408,
+    "ring_risk_score": 0.548,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_052",
+    "member_accounts": [
+      "acc_00168",
+      "acc_00435"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.69,
+    "ring_risk_score": 0.547,
+    "shared_attributes_involved": [
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_019",
+    "member_accounts": [
+      "acc_00020",
+      "acc_00022",
+      "acc_00835",
+      "acc_00848",
+      "acc_01134"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.7,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.126,
+    "ring_risk_score": 0.546,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_119",
+    "member_accounts": [
+      "acc_00753",
+      "acc_00798",
+      "acc_00801",
+      "acc_00967"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.391,
+    "ring_risk_score": 0.545,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_011",
+    "member_accounts": [
+      "acc_00364",
+      "acc_00367",
+      "acc_00371",
+      "acc_00791",
+      "acc_00792"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.6,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.302,
+    "ring_risk_score": 0.542,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_061",
+    "member_accounts": [
+      "acc_00202",
+      "acc_00433",
+      "acc_00910",
+      "acc_00913",
+      "acc_01118"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.7,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.093,
+    "ring_risk_score": 0.541,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_115",
+    "member_accounts": [
+      "acc_00346",
+      "acc_00348",
+      "acc_00952",
+      "acc_01116",
+      "acc_01238"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.7,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.095,
+    "ring_risk_score": 0.541,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_093",
+    "member_accounts": [
+      "acc_00097",
+      "acc_00266",
+      "acc_01022",
+      "acc_01112"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.344,
+    "ring_risk_score": 0.538,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_130",
+    "member_accounts": [
+      "acc_00355",
+      "acc_00668",
+      "acc_00742",
+      "acc_00855",
+      "acc_00860",
+      "acc_00909"
+    ],
+    "size": 6,
+    "size_score": 0.6,
+    "density_score": 0.467,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.341,
+    "ring_risk_score": 0.538,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_073",
+    "member_accounts": [
+      "acc_00088",
+      "acc_00096",
+      "acc_00353",
+      "acc_00964",
+      "acc_01277"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.025,
+    "ring_risk_score": 0.537,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_156",
+    "member_accounts": [
+      "acc_00173",
+      "acc_00243",
+      "acc_00613",
+      "acc_01216",
+      "acc_01365"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.025,
+    "ring_risk_score": 0.537,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_102",
+    "member_accounts": [
+      "acc_00678",
+      "acc_00739",
+      "acc_00752",
+      "acc_01081",
+      "acc_01103"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.019,
+    "ring_risk_score": 0.536,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_121",
+    "member_accounts": [
+      "acc_00501",
+      "acc_00669",
+      "acc_00824",
+      "acc_01199",
+      "acc_01369"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.7,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.063,
+    "ring_risk_score": 0.536,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_151",
+    "member_accounts": [
+      "acc_00023",
+      "acc_00116",
+      "acc_00262",
+      "acc_00316",
+      "acc_00365"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.021,
+    "ring_risk_score": 0.536,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_126",
+    "member_accounts": [
+      "acc_00732",
+      "acc_00800",
+      "acc_00901",
+      "acc_01183",
+      "acc_01289"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.5,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.447,
+    "ring_risk_score": 0.534,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_014",
+    "member_accounts": [
+      "acc_00485",
+      "acc_00488",
+      "acc_00653",
+      "acc_00655",
+      "acc_00658"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.6,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.184,
+    "ring_risk_score": 0.524,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_088",
+    "member_accounts": [
+      "acc_00051",
+      "acc_00158",
+      "acc_01006",
+      "acc_01085"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.245,
+    "ring_risk_score": 0.523,
+    "shared_attributes_involved": [
+      "device_id",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_122",
+    "member_accounts": [
+      "acc_00889",
+      "acc_00971",
+      "acc_01214",
+      "acc_01244",
+      "acc_01388"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.6,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.176,
+    "ring_risk_score": 0.523,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_139",
+    "member_accounts": [
+      "acc_00427",
+      "acc_00430",
+      "acc_00830",
+      "acc_00938"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.109,
+    "ring_risk_score": 0.52,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_062",
+    "member_accounts": [
+      "acc_00499",
+      "acc_00816",
+      "acc_01049",
+      "acc_01051",
+      "acc_01058"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.5,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.336,
+    "ring_risk_score": 0.517,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_145",
+    "member_accounts": [
+      "acc_00645",
+      "acc_01067",
+      "acc_01416"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.393,
+    "ring_risk_score": 0.516,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_109",
+    "member_accounts": [
+      "acc_01291",
+      "acc_01296"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.476,
+    "ring_risk_score": 0.515,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_087",
+    "member_accounts": [
+      "acc_00124",
+      "acc_00349",
+      "acc_00826"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.374,
+    "ring_risk_score": 0.513,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_054",
+    "member_accounts": [
+      "acc_00224",
+      "acc_00227"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.455,
+    "ring_risk_score": 0.512,
+    "shared_attributes_involved": [
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_177",
+    "member_accounts": [
+      "acc_00041",
+      "acc_01269",
+      "acc_01287",
+      "acc_01290"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.167,
+    "ring_risk_score": 0.512,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_090",
+    "member_accounts": [
+      "acc_00156",
+      "acc_00213",
+      "acc_00756",
+      "acc_00884"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.039,
+    "ring_risk_score": 0.509,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_170",
+    "member_accounts": [
+      "acc_01318",
+      "acc_01432",
+      "acc_01437",
+      "acc_01443"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.146,
+    "ring_risk_score": 0.509,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_171",
+    "member_accounts": [
+      "acc_00110",
+      "acc_01420",
+      "acc_01428",
+      "acc_01455",
+      "acc_01467"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.5,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.279,
+    "ring_risk_score": 0.508,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_134",
+    "member_accounts": [
+      "acc_00475",
+      "acc_01102",
+      "acc_01264",
+      "acc_01409"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.026,
+    "ring_risk_score": 0.507,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_173",
+    "member_accounts": [
+      "acc_00241",
+      "acc_00304",
+      "acc_00970",
+      "acc_01366"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.019,
+    "ring_risk_score": 0.506,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_033",
+    "member_accounts": [
+      "acc_00362",
+      "acc_01196",
+      "acc_01305",
+      "acc_01452"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.009,
+    "ring_risk_score": 0.505,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_111",
+    "member_accounts": [
+      "acc_00743",
+      "acc_00847",
+      "acc_00989",
+      "acc_01154"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.009,
+    "ring_risk_score": 0.505,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_096",
+    "member_accounts": [
+      "acc_00630",
+      "acc_00688",
+      "acc_00861",
+      "acc_01381"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.003,
+    "ring_risk_score": 0.504,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_178",
+    "member_accounts": [
+      "acc_00494",
+      "acc_00869",
+      "acc_00873",
+      "acc_00920"
+    ],
+    "size": 4,
+    "size_score": 0.4,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.104,
+    "ring_risk_score": 0.502,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_118",
+    "member_accounts": [
+      "acc_00135",
+      "acc_01099",
+      "acc_01228"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.281,
+    "ring_risk_score": 0.499,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_132",
+    "member_accounts": [
+      "acc_00819",
+      "acc_00833",
+      "acc_01159"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 0.667,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.233,
+    "ring_risk_score": 0.492,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_005",
+    "member_accounts": [
+      "acc_00028",
+      "acc_00104",
+      "acc_00212",
+      "acc_00465",
+      "acc_01351"
+    ],
+    "size": 5,
+    "size_score": 0.5,
+    "density_score": 0.5,
+    "shared_attribute_score": 0.667,
+    "burst_score": 0.142,
+    "ring_risk_score": 0.488,
+    "shared_attributes_involved": [
+      "billing_address_hash",
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_058",
+    "member_accounts": [
+      "acc_00389",
+      "acc_01197"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.286,
+    "ring_risk_score": 0.486,
+    "shared_attributes_involved": [
+      "device_id"
+    ]
+  },
+  {
+    "candidate_id": "candidate_007",
+    "member_accounts": [
+      "acc_00246",
+      "acc_00310",
+      "acc_00320"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.078,
+    "ring_risk_score": 0.485,
+    "shared_attributes_involved": [
+      "billing_address_hash"
+    ]
+  },
+  {
+    "candidate_id": "candidate_097",
+    "member_accounts": [
+      "acc_00117",
+      "acc_00885",
+      "acc_00911"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.038,
+    "ring_risk_score": 0.479,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_138",
+    "member_accounts": [
+      "acc_00777",
+      "acc_01065",
+      "acc_01104"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.021,
+    "ring_risk_score": 0.477,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_113",
+    "member_accounts": [
+      "acc_00354",
+      "acc_01353",
+      "acc_01451"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.013,
+    "ring_risk_score": 0.475,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_148",
+    "member_accounts": [
+      "acc_00134",
+      "acc_00244",
+      "acc_00551"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.012,
+    "ring_risk_score": 0.475,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_024",
+    "member_accounts": [
+      "acc_00222",
+      "acc_01026",
+      "acc_01236"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.005,
+    "ring_risk_score": 0.474,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_028",
+    "member_accounts": [
+      "acc_00259",
+      "acc_00863",
+      "acc_01282"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.002,
+    "ring_risk_score": 0.474,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_135",
+    "member_accounts": [
+      "acc_00759",
+      "acc_01163",
+      "acc_01470"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.005,
+    "ring_risk_score": 0.474,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_159",
+    "member_accounts": [
+      "acc_00128",
+      "acc_00409",
+      "acc_01113"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.003,
+    "ring_risk_score": 0.474,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_169",
+    "member_accounts": [
+      "acc_00312",
+      "acc_00694",
+      "acc_01013"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.004,
+    "ring_risk_score": 0.474,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_172",
+    "member_accounts": [
+      "acc_00114",
+      "acc_00508",
+      "acc_00773"
+    ],
+    "size": 3,
+    "size_score": 0.3,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.003,
+    "ring_risk_score": 0.474,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_140",
+    "member_accounts": [
+      "acc_01098",
+      "acc_01115"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.105,
+    "ring_risk_score": 0.459,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_147",
+    "member_accounts": [
+      "acc_00187",
+      "acc_00297"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.023,
+    "ring_risk_score": 0.447,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_129",
+    "member_accounts": [
+      "acc_00455",
+      "acc_01364"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.015,
+    "ring_risk_score": 0.446,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_164",
+    "member_accounts": [
+      "acc_00849",
+      "acc_01226"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.015,
+    "ring_risk_score": 0.446,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_041",
+    "member_accounts": [
+      "acc_00376",
+      "acc_01225"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.001,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_085",
+    "member_accounts": [
+      "acc_00699",
+      "acc_01471"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.002,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_124",
+    "member_accounts": [
+      "acc_00689",
+      "acc_01483"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.002,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_127",
+    "member_accounts": [
+      "acc_00029",
+      "acc_01021"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.001,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_142",
+    "member_accounts": [
+      "acc_00599",
+      "acc_00720"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.003,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_143",
+    "member_accounts": [
+      "acc_00941",
+      "acc_01253"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.007,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_152",
+    "member_accounts": [
+      "acc_00733",
+      "acc_01192"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.004,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_153",
+    "member_accounts": [
+      "acc_00274",
+      "acc_00661"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.003,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_154",
+    "member_accounts": [
+      "acc_00574",
+      "acc_00725"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.003,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_160",
+    "member_accounts": [
+      "acc_00148",
+      "acc_00464"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.007,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_163",
+    "member_accounts": [
+      "acc_00308",
+      "acc_00838"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.001,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_175",
+    "member_accounts": [
+      "acc_00609",
+      "acc_01378"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.001,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_176",
+    "member_accounts": [
+      "acc_00660",
+      "acc_01350"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.002,
+    "ring_risk_score": 0.444,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_157",
+    "member_accounts": [
+      "acc_00083",
+      "acc_01306"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.001,
+    "ring_risk_score": 0.443,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  },
+  {
+    "candidate_id": "candidate_174",
+    "member_accounts": [
+      "acc_00033",
+      "acc_01070"
+    ],
+    "size": 2,
+    "size_score": 0.2,
+    "density_score": 1.0,
+    "shared_attribute_score": 0.333,
+    "burst_score": 0.001,
+    "ring_risk_score": 0.443,
+    "shared_attributes_involved": [
+      "payment_token"
+    ]
+  }
+]

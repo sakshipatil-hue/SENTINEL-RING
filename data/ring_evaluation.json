@@ -1,0 +1,1496 @@
+{
+  "overlap_threshold": 0.7,
+  "recall": 0.833,
+  "precision": 0.028,
+  "f1": 0.054,
+  "ring_results": [
+    {
+      "ring_id": "ring_001",
+      "pattern": "shared_device_staggered",
+      "true_size": 9,
+      "best_match_candidate": "candidate_103",
+      "best_match_rank": 2,
+      "overlap_pct": 1.0,
+      "found": true
+    },
+    {
+      "ring_id": "ring_002",
+      "pattern": "shared_device_staggered",
+      "true_size": 4,
+      "best_match_candidate": "candidate_104",
+      "best_match_rank": 53,
+      "overlap_pct": 0.5,
+      "found": false
+    },
+    {
+      "ring_id": "ring_003",
+      "pattern": "shared_payment_burst",
+      "true_size": 6,
+      "best_match_candidate": "candidate_046",
+      "best_match_rank": 16,
+      "overlap_pct": 1.0,
+      "found": true
+    },
+    {
+      "ring_id": "ring_004",
+      "pattern": "shared_payment_burst",
+      "true_size": 8,
+      "best_match_candidate": "candidate_039",
+      "best_match_rank": 59,
+      "overlap_pct": 1.0,
+      "found": true
+    },
+    {
+      "ring_id": "ring_005",
+      "pattern": "address_cluster_sequential",
+      "true_size": 6,
+      "best_match_candidate": "candidate_004",
+      "best_match_rank": 81,
+      "overlap_pct": 1.0,
+      "found": true
+    },
+    {
+      "ring_id": "ring_006",
+      "pattern": "address_cluster_sequential",
+      "true_size": 6,
+      "best_match_candidate": "candidate_016",
+      "best_match_rank": 82,
+      "overlap_pct": 1.0,
+      "found": true
+    }
+  ],
+  "candidate_results": [
+    {
+      "candidate_id": "candidate_042",
+      "size": 24,
+      "ring_risk_score": 0.832,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_103",
+      "size": 10,
+      "ring_risk_score": 0.821,
+      "matched_ring": "ring_001",
+      "overlap_pct": 0.9,
+      "is_true_positive": true
+    },
+    {
+      "candidate_id": "candidate_026",
+      "size": 15,
+      "ring_risk_score": 0.815,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_001",
+      "size": 25,
+      "ring_risk_score": 0.774,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_008",
+      "size": 23,
+      "ring_risk_score": 0.772,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_059",
+      "size": 18,
+      "ring_risk_score": 0.771,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_006",
+      "size": 23,
+      "ring_risk_score": 0.77,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_094",
+      "size": 18,
+      "ring_risk_score": 0.77,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_060",
+      "size": 12,
+      "ring_risk_score": 0.749,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_065",
+      "size": 21,
+      "ring_risk_score": 0.748,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_029",
+      "size": 21,
+      "ring_risk_score": 0.742,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_053",
+      "size": 18,
+      "ring_risk_score": 0.74,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_049",
+      "size": 8,
+      "ring_risk_score": 0.739,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_144",
+      "size": 14,
+      "ring_risk_score": 0.731,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_091",
+      "size": 5,
+      "ring_risk_score": 0.73,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_046",
+      "size": 6,
+      "ring_risk_score": 0.725,
+      "matched_ring": "ring_003",
+      "overlap_pct": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "candidate_id": "candidate_036",
+      "size": 23,
+      "ring_risk_score": 0.723,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_003",
+      "size": 21,
+      "ring_risk_score": 0.717,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_023",
+      "size": 8,
+      "ring_risk_score": 0.713,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_133",
+      "size": 9,
+      "ring_risk_score": 0.713,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_067",
+      "size": 18,
+      "ring_risk_score": 0.711,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_064",
+      "size": 8,
+      "ring_risk_score": 0.709,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_012",
+      "size": 16,
+      "ring_risk_score": 0.705,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_071",
+      "size": 6,
+      "ring_risk_score": 0.703,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_013",
+      "size": 7,
+      "ring_risk_score": 0.699,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_002",
+      "size": 13,
+      "ring_risk_score": 0.697,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_048",
+      "size": 9,
+      "ring_risk_score": 0.697,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_158",
+      "size": 13,
+      "ring_risk_score": 0.696,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_108",
+      "size": 23,
+      "ring_risk_score": 0.695,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_092",
+      "size": 13,
+      "ring_risk_score": 0.694,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_086",
+      "size": 11,
+      "ring_risk_score": 0.692,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_021",
+      "size": 19,
+      "ring_risk_score": 0.691,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_040",
+      "size": 9,
+      "ring_risk_score": 0.691,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_044",
+      "size": 27,
+      "ring_risk_score": 0.691,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_015",
+      "size": 12,
+      "ring_risk_score": 0.69,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_106",
+      "size": 19,
+      "ring_risk_score": 0.69,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_031",
+      "size": 32,
+      "ring_risk_score": 0.689,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_035",
+      "size": 10,
+      "ring_risk_score": 0.689,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_078",
+      "size": 12,
+      "ring_risk_score": 0.689,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_117",
+      "size": 17,
+      "ring_risk_score": 0.689,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_022",
+      "size": 22,
+      "ring_risk_score": 0.688,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_027",
+      "size": 20,
+      "ring_risk_score": 0.688,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_070",
+      "size": 28,
+      "ring_risk_score": 0.688,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_080",
+      "size": 15,
+      "ring_risk_score": 0.688,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_099",
+      "size": 16,
+      "ring_risk_score": 0.688,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_112",
+      "size": 33,
+      "ring_risk_score": 0.688,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_162",
+      "size": 24,
+      "ring_risk_score": 0.688,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_050",
+      "size": 22,
+      "ring_risk_score": 0.687,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_084",
+      "size": 13,
+      "ring_risk_score": 0.687,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_105",
+      "size": 9,
+      "ring_risk_score": 0.685,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_179",
+      "size": 9,
+      "ring_risk_score": 0.683,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_095",
+      "size": 16,
+      "ring_risk_score": 0.678,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_104",
+      "size": 5,
+      "ring_risk_score": 0.671,
+      "matched_ring": null,
+      "overlap_pct": 0.4,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_146",
+      "size": 9,
+      "ring_risk_score": 0.664,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_051",
+      "size": 8,
+      "ring_risk_score": 0.659,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_025",
+      "size": 6,
+      "ring_risk_score": 0.658,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_017",
+      "size": 9,
+      "ring_risk_score": 0.656,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_063",
+      "size": 6,
+      "ring_risk_score": 0.653,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_039",
+      "size": 8,
+      "ring_risk_score": 0.652,
+      "matched_ring": "ring_004",
+      "overlap_pct": 1.0,
+      "is_true_positive": true
+    },
+    {
+      "candidate_id": "candidate_034",
+      "size": 6,
+      "ring_risk_score": 0.648,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_056",
+      "size": 11,
+      "ring_risk_score": 0.646,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_077",
+      "size": 8,
+      "ring_risk_score": 0.646,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_128",
+      "size": 9,
+      "ring_risk_score": 0.645,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_066",
+      "size": 5,
+      "ring_risk_score": 0.644,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_076",
+      "size": 4,
+      "ring_risk_score": 0.643,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_098",
+      "size": 8,
+      "ring_risk_score": 0.642,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_110",
+      "size": 8,
+      "ring_risk_score": 0.63,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_045",
+      "size": 7,
+      "ring_risk_score": 0.629,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_131",
+      "size": 8,
+      "ring_risk_score": 0.629,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_082",
+      "size": 5,
+      "ring_risk_score": 0.628,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_043",
+      "size": 23,
+      "ring_risk_score": 0.625,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_032",
+      "size": 8,
+      "ring_risk_score": 0.624,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_068",
+      "size": 4,
+      "ring_risk_score": 0.624,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_107",
+      "size": 6,
+      "ring_risk_score": 0.623,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_038",
+      "size": 5,
+      "ring_risk_score": 0.622,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_009",
+      "size": 16,
+      "ring_risk_score": 0.618,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_116",
+      "size": 4,
+      "ring_risk_score": 0.615,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_155",
+      "size": 7,
+      "ring_risk_score": 0.614,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_166",
+      "size": 3,
+      "ring_risk_score": 0.614,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_075",
+      "size": 3,
+      "ring_risk_score": 0.613,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_004",
+      "size": 7,
+      "ring_risk_score": 0.609,
+      "matched_ring": "ring_005",
+      "overlap_pct": 0.857,
+      "is_true_positive": true
+    },
+    {
+      "candidate_id": "candidate_016",
+      "size": 7,
+      "ring_risk_score": 0.608,
+      "matched_ring": "ring_006",
+      "overlap_pct": 0.857,
+      "is_true_positive": true
+    },
+    {
+      "candidate_id": "candidate_047",
+      "size": 6,
+      "ring_risk_score": 0.604,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_057",
+      "size": 8,
+      "ring_risk_score": 0.602,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_010",
+      "size": 7,
+      "ring_risk_score": 0.597,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_123",
+      "size": 7,
+      "ring_risk_score": 0.597,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_136",
+      "size": 6,
+      "ring_risk_score": 0.597,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_137",
+      "size": 6,
+      "ring_risk_score": 0.59,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_072",
+      "size": 6,
+      "ring_risk_score": 0.585,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_114",
+      "size": 6,
+      "ring_risk_score": 0.579,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_055",
+      "size": 3,
+      "ring_risk_score": 0.573,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_120",
+      "size": 6,
+      "ring_risk_score": 0.573,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_069",
+      "size": 3,
+      "ring_risk_score": 0.57,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_030",
+      "size": 7,
+      "ring_risk_score": 0.569,
+      "matched_ring": null,
+      "overlap_pct": 0.143,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_167",
+      "size": 2,
+      "ring_risk_score": 0.568,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_020",
+      "size": 6,
+      "ring_risk_score": 0.566,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_037",
+      "size": 6,
+      "ring_risk_score": 0.566,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_101",
+      "size": 6,
+      "ring_risk_score": 0.565,
+      "matched_ring": null,
+      "overlap_pct": 0.167,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_125",
+      "size": 5,
+      "ring_risk_score": 0.564,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_141",
+      "size": 7,
+      "ring_risk_score": 0.564,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_149",
+      "size": 5,
+      "ring_risk_score": 0.559,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_083",
+      "size": 5,
+      "ring_risk_score": 0.558,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_074",
+      "size": 4,
+      "ring_risk_score": 0.555,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_079",
+      "size": 6,
+      "ring_risk_score": 0.555,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_081",
+      "size": 2,
+      "ring_risk_score": 0.553,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_150",
+      "size": 6,
+      "ring_risk_score": 0.553,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_165",
+      "size": 3,
+      "ring_risk_score": 0.553,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_089",
+      "size": 4,
+      "ring_risk_score": 0.551,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_100",
+      "size": 4,
+      "ring_risk_score": 0.551,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_018",
+      "size": 4,
+      "ring_risk_score": 0.55,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_168",
+      "size": 3,
+      "ring_risk_score": 0.55,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_161",
+      "size": 6,
+      "ring_risk_score": 0.548,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_052",
+      "size": 2,
+      "ring_risk_score": 0.547,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_019",
+      "size": 5,
+      "ring_risk_score": 0.546,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_119",
+      "size": 4,
+      "ring_risk_score": 0.545,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_011",
+      "size": 5,
+      "ring_risk_score": 0.542,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_061",
+      "size": 5,
+      "ring_risk_score": 0.541,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_115",
+      "size": 5,
+      "ring_risk_score": 0.541,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_093",
+      "size": 4,
+      "ring_risk_score": 0.538,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_130",
+      "size": 6,
+      "ring_risk_score": 0.538,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_073",
+      "size": 5,
+      "ring_risk_score": 0.537,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_156",
+      "size": 5,
+      "ring_risk_score": 0.537,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_102",
+      "size": 5,
+      "ring_risk_score": 0.536,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_121",
+      "size": 5,
+      "ring_risk_score": 0.536,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_151",
+      "size": 5,
+      "ring_risk_score": 0.536,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_126",
+      "size": 5,
+      "ring_risk_score": 0.534,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_014",
+      "size": 5,
+      "ring_risk_score": 0.524,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_088",
+      "size": 4,
+      "ring_risk_score": 0.523,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_122",
+      "size": 5,
+      "ring_risk_score": 0.523,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_139",
+      "size": 4,
+      "ring_risk_score": 0.52,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_062",
+      "size": 5,
+      "ring_risk_score": 0.517,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_145",
+      "size": 3,
+      "ring_risk_score": 0.516,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_109",
+      "size": 2,
+      "ring_risk_score": 0.515,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_087",
+      "size": 3,
+      "ring_risk_score": 0.513,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_054",
+      "size": 2,
+      "ring_risk_score": 0.512,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_177",
+      "size": 4,
+      "ring_risk_score": 0.512,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_090",
+      "size": 4,
+      "ring_risk_score": 0.509,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_170",
+      "size": 4,
+      "ring_risk_score": 0.509,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_171",
+      "size": 5,
+      "ring_risk_score": 0.508,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_134",
+      "size": 4,
+      "ring_risk_score": 0.507,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_173",
+      "size": 4,
+      "ring_risk_score": 0.506,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_033",
+      "size": 4,
+      "ring_risk_score": 0.505,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_111",
+      "size": 4,
+      "ring_risk_score": 0.505,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_096",
+      "size": 4,
+      "ring_risk_score": 0.504,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_178",
+      "size": 4,
+      "ring_risk_score": 0.502,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_118",
+      "size": 3,
+      "ring_risk_score": 0.499,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_132",
+      "size": 3,
+      "ring_risk_score": 0.492,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_005",
+      "size": 5,
+      "ring_risk_score": 0.488,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_058",
+      "size": 2,
+      "ring_risk_score": 0.486,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_007",
+      "size": 3,
+      "ring_risk_score": 0.485,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_097",
+      "size": 3,
+      "ring_risk_score": 0.479,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_138",
+      "size": 3,
+      "ring_risk_score": 0.477,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_113",
+      "size": 3,
+      "ring_risk_score": 0.475,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_148",
+      "size": 3,
+      "ring_risk_score": 0.475,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_024",
+      "size": 3,
+      "ring_risk_score": 0.474,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_028",
+      "size": 3,
+      "ring_risk_score": 0.474,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_135",
+      "size": 3,
+      "ring_risk_score": 0.474,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_159",
+      "size": 3,
+      "ring_risk_score": 0.474,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_169",
+      "size": 3,
+      "ring_risk_score": 0.474,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_172",
+      "size": 3,
+      "ring_risk_score": 0.474,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_140",
+      "size": 2,
+      "ring_risk_score": 0.459,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_147",
+      "size": 2,
+      "ring_risk_score": 0.447,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_129",
+      "size": 2,
+      "ring_risk_score": 0.446,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_164",
+      "size": 2,
+      "ring_risk_score": 0.446,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_041",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_085",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_124",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_127",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_142",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_143",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_152",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_153",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_154",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_160",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_163",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_175",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_176",
+      "size": 2,
+      "ring_risk_score": 0.444,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_157",
+      "size": 2,
+      "ring_risk_score": 0.443,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    },
+    {
+      "candidate_id": "candidate_174",
+      "size": 2,
+      "ring_risk_score": 0.443,
+      "matched_ring": null,
+      "overlap_pct": 0,
+      "is_true_positive": false
+    }
+  ]
+}

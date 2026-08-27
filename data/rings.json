@@ -1,0 +1,103 @@
+[
+  {
+    "ring_id": "ring_001",
+    "pattern": "shared_device_staggered",
+    "account_ids": [
+      "acc_00417",
+      "acc_00100",
+      "acc_00254",
+      "acc_01401",
+      "acc_01256",
+      "acc_00949",
+      "acc_00180",
+      "acc_00568",
+      "acc_01136"
+    ],
+    "shared_attributes": {
+      "device_id": "synthetic_device_ring_001"
+    },
+    "size": 9
+  },
+  {
+    "ring_id": "ring_002",
+    "pattern": "shared_device_staggered",
+    "account_ids": [
+      "acc_00934",
+      "acc_01052",
+      "acc_00188",
+      "acc_01339"
+    ],
+    "shared_attributes": {
+      "device_id": "synthetic_device_ring_002"
+    },
+    "size": 4
+  },
+  {
+    "ring_id": "ring_003",
+    "pattern": "shared_payment_burst",
+    "account_ids": [
+      "acc_01448",
+      "acc_01334",
+      "acc_00918",
+      "acc_00622",
+      "acc_00908",
+      "acc_01032"
+    ],
+    "shared_attributes": {
+      "payment_token": "synthetic_token_ring_003",
+      "burst_window_minutes": 13
+    },
+    "size": 6
+  },
+  {
+    "ring_id": "ring_004",
+    "pattern": "shared_payment_burst",
+    "account_ids": [
+      "acc_01091",
+      "acc_01284",
+      "acc_00437",
+      "acc_01293",
+      "acc_00146",
+      "acc_01309",
+      "acc_01158",
+      "acc_01076"
+    ],
+    "shared_attributes": {
+      "payment_token": "synthetic_token_ring_004",
+      "burst_window_minutes": 20
+    },
+    "size": 8
+  },
+  {
+    "ring_id": "ring_005",
+    "pattern": "address_cluster_sequential",
+    "account_ids": [
+      "acc_01326",
+      "acc_01426",
+      "acc_00102",
+      "acc_00422",
+      "acc_00341",
+      "acc_01096"
+    ],
+    "shared_attributes": {
+      "billing_address_hash": "synthetic_addr_ring_005"
+    },
+    "size": 6
+  },
+  {
+    "ring_id": "ring_006",
+    "pattern": "address_cluster_sequential",
+    "account_ids": [
+      "acc_00600",
+      "acc_01171",
+      "acc_00519",
+      "acc_00286",
+      "acc_00136",
+      "acc_01344"
+    ],
+    "shared_attributes": {
+      "billing_address_hash": "synthetic_addr_ring_006"
+    },
+    "size": 6
+  }
+]

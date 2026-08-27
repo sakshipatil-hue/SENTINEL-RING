@@ -3,6 +3,12 @@ __pycache__/
 .env
 venv/
 *.db
-data/*.csv
-data/*.json
-!data/.gitkeep
+
+# Raw source data only -- large, and reproducible via
+# src/generation/load_and_map.py from the user's own Kaggle download.
+# Everything else in data/ (accounts.csv, transactions.csv, rings.json,
+# candidate_rings.json, etc.) IS committed -- the deployed app reads these
+# directly at runtime (see app.py / src/agent/tools.py), so they must be
+# in the repo, not regenerated on every deploy.
+data/raw_transactions.csv
+data/raw_identity.csv
